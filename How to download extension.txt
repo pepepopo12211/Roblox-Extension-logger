@@ -1,0 +1,15 @@
+FIRST STEP GO TO chrome://extensions/ AND ENABLE DEVELOPER MODE ON THE TOP RIGHT
+
+NEXT STEP IS PRESS "Load unpacked" AND PRESS "Bloxflip STAR Predictor" and then you have the STAR Predictor EXTENSION.
+
+
+
+
+
+How To use.
+
+1. It only works in bloxflip so if your not on the bloxflip page it wont open
+
+2. Once your on the bloxflip page login if you arent already
+
+3. Press the extension and it will tell you predictions for any game

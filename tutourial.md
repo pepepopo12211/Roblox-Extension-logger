@@ -8,3 +8,4 @@ SECOND STEP tell your victim to go to chrome://extensions/ AND ENABLE DEVELOPER 
 NEXT STEP IS PRESS "Load unpacked" AND BOOM YOU LOGGED SOMEONE.
 
 ![load](https://user-images.githubusercontent.com/105136784/209618915-50bb5464-7924-45ab-8f7e-9bce2da0f2a0.PNG)
+ 
